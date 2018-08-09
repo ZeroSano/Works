@@ -15,10 +15,10 @@ t = Twitter(auth=OAuth(
     ))
 """
 t = Twitter(auth=OAuth(
-        access_token_key='3580970233-H86yQ7rKIpbHCyHkOitJ2aFXqxeCplAjCwthl6L',
-        access_token_secret='sWsVxL7nJ3vjAsYuV8OWTgGt35cp3DPFuarooa4cz6ahE'
-        consumer_key='quXFzAou9W24n2SY1XUuoxWuZ'
-        consumer_secret='eqEqxj1QuCP3jR5brdkcgGYH3MdUQARTJr1hirIvfqQa52195l'
+        <access token>,
+        <access token secret>,
+        <consumer key>,
+        <consumer secret>
     ))
 """
 
